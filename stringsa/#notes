@@ -1,0 +1,19 @@
+String===> is a group of char in a order. or sequence of characters surrounded by double quotes.
+In java the Strings are Onjects.
+
+String Length
+
+A string length is an object, Which contins methods that can perform certain operations on strings.
+
+For example the length of a string  can be found with .length() method.
+
+EX: string="djbegksnggnjshjhxdfghjdfcgvhbncfgvbhn";
+ 
+   System.out.println("The length of the string is:" + .length());
+
+Somemore methods in java are:
+ .toUpperCase()
+ .toLowerCase()
+
+
+ 

@@ -1,0 +1,33 @@
+Variable ----> Variable is a container which holds the value.
+   
+      A Variable is a container or a placeholder where we can define the data or maintain the data.
+
+      In java if we want to define some data compulsory the must and should be their as a part of container is known as variable. 
+
+
+Types of variables
+
+*  Static variables( Class level variables)
+
+A) whenever the value or data is not going to be changes object to object , if it is constant is known as Static variable.
+
+EX: string organizationName="AK COMPANY";
+ ---->// Organization name won't be changed i is constant  soo we need to declare it as a Static//
+EX: static string organizationName="AK COMAPNY";
+
+
+
+*  Non-Static variables(instance variables)
+
+A) whenever the value or data  Which is  going to be changes object to object , if it is not  constant is known as non-Static variable or Instance variable.
+
+EX: int x=15; 
+---->// Here we want to change the x value to 20 later , soo we don't need want to take it as static .
+EX: int x=20; 
+
+
+*  Local variables (Method level variables)
+
+
+
+* Object type | reference type variables
