@@ -3,7 +3,7 @@ abstract class Flipkart{
     abstract void  login();
 
 }
- abstract class Flip extends Flipkart{
+  class Flip extends Flipkart{
 
     void register(){
         System.out.println("Register by giving details");
