@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Demo_Constructor",
+            "request": "launch",
+            "mainClass": "Demo_Constructor",
+            "projectName": "corejava_224efba"
+        },
+        {
+            "type": "java",
             "name": "SumEve",
             "request": "launch",
             "mainClass": "SumEve",
